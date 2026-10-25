@@ -135,10 +135,7 @@ Through this project, I gained practical experience with:
 
 **Verdat Fatima**
 
-BS Computer Science Student
-
 - GitHub: [Verdat-Fatima](https://github.com/Verdat-Fatima)
 
 ---
 
-*This project was developed as part of my practical learning in data analysis and machine learning.*
