@@ -134,8 +134,3 @@ Through this project, I gained practical experience with:
 ## Author
 
 **Verdat Fatima**
-
-- GitHub: [Verdat-Fatima](https://github.com/Verdat-Fatima)
-
----
-
