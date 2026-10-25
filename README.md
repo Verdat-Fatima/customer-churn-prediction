@@ -36,6 +36,7 @@ The features selected for model training are:
 - **Pandas** — Data manipulation and analysis
 - **Matplotlib** — Data visualization
 - **Scikit-learn** — Data preprocessing, model training, and evaluation
+- **Google Colab** — Cloud-based notebook environment
 
 ## Project Workflow
 
